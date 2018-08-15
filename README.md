@@ -10,3 +10,6 @@ Dosyaların kaybolmaması hem de Topluluğa açık birer kaynak olması için Gi
 <li>Os : Win10 , Powershell</li>
 <li>IDE : VSCODE</li>
 </ul>
+<h1>Kaynak'lar</h1>
+<ul>
+ <li><a style="color:black;" href="https://belgeler.yazbel.com/python-istihza.pdf">İstihza / Fırat Özgül - Python</a></li>
