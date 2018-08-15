@@ -5,6 +5,7 @@ Kendi yazdığım kodları buraya atıyorum
 <center><img src="http://www.gohealthing.com/wp-content/uploads/2017/06/question_mark1600.png" width="100"></center>
 Dosyaların kaybolmaması hem de Topluluğa açık birer kaynak olması için GitHub'a yüklüyorum
 <h1>Tecrübe / Altyapı</h1>
+<center><img src="https://www.ascamso.com/wp-content/uploads/2015/05/icon_11.png" width="100"></center>
 C,C#,Php,JavaScript dilleri üzerine Altyapımı oluşturdum(Özellikle C#).Genel'de Php ile Web tabanlı uygulamalar yazıyorum.
 <h1>Detaylar</h1>
 <ul>
