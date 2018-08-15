@@ -4,3 +4,5 @@ Kendi yazdığım kodları buraya atıyorum.
 Python öğrenmeye başladım ,hem dosyaların kaybolmaması hem de Topluluğa açık birer kaynak olması için GitHub'a yüklüyorum.
 <h1>Detaylar</h1>
 <h3>Pytohn Sürümü : 3x</h3>
+<h3>Os : Win10 , Powershell</h3>
+<h3>IDE : VSCODE </h3>
