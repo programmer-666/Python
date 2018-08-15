@@ -1,5 +1,5 @@
 <style>
-h1:hover{color:#3a3e5c}
+ul li:hover{color:#3a3e5c}
 </style>
 # Python
 <center><img width="100" src="https://maxcdn.icons8.com/Share/icon/Logos/python1600.png"></center>
