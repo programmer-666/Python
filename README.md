@@ -1,5 +1,5 @@
-<center><img width="100" src="https://maxcdn.icons8.com/Share/icon/Logos/python1600.png"></center>
 # Python
+<center><img width="100" src="https://maxcdn.icons8.com/Share/icon/Logos/python1600.png"></center>
 Kendi yazdığım kodları buraya atıyorum
 <h1>Amaç</h1>
 Dosyaların kaybolmaması hem de Topluluğa açık birer kaynak olması için GitHub'a yüklüyorum
