@@ -1,3 +1,4 @@
+<img src="https://maxcdn.icons8.com/Share/icon/Logos/python1600.png">
 # Python
 Kendi yazdığım kodları buraya atıyorum
 <h1>Amaç</h1>
