@@ -9,7 +9,7 @@ Dosyaların kaybolmaması hem de Topluluğa açık birer kaynak olması için Gi
 C,C#,Php,JavaScript dilleri üzerine Altyapımı oluşturdum(Özellikle C#).Genel'de Php ile Web tabanlı uygulamalar yazıyorum
 <h1>Detaylar</h1>
 <ul>
- <li>Pytohn Sürümü : 3x</li>
+ <li>Python Sürümü : 3x</li>
 <li>Os : Win10 , Powershell</li>
 <li>IDE : VSCODE</li>
 </ul>
