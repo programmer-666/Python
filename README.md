@@ -12,6 +12,7 @@ C,C#,Php,JavaScript dilleri üzerine Altyapımı oluşturdum(Özellikle C#).Gene
  <li>Python Sürümü : 3x</li>
 <li>Os : Win10 , Powershell</li>
 <li>IDE : VSCODE</li>
+<li>Kaynakların verdiği bilgiyi özetleyip paylaşıyorum , eksik dosya olmadığı sürece (Kütüphane Vs..) hata oluşma ihtimali azdır..</li>
 </ul>
 <h1>Kaynak'lar</h1>
 <ul>
