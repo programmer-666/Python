@@ -17,4 +17,5 @@ C,C#,Php,JavaScript dilleri üzerine Altyapımı oluşturdum(Özellikle C#).Gene
 <h1>Kaynak'lar</h1>
 <ul>
  <li><a style="color:black;" href="https://belgeler.yazbel.com/python-istihza.pdf">İstihza / Fırat Özgül - Python</a></li>
+ <li><a style="color:black;" href="https://www.youtube.com/watch?v=AaOv4BjN2UY&list=PLh9ECzBB8tJNTYpfiDs3PVlCZIwE9Gz0e">Şadi Evren Şeker Python3</a></li>
 </ul>
