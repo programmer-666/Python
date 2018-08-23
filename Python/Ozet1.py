@@ -76,6 +76,6 @@ continue - İşlemi yapar atlar
 dir() - Nesnenin özellikleri hakkında bilgi verir
 enumerate() - Verileri numaralandırır
 help() - Yardım için...
-# # # ÖZETSON# # #
+# # # ÖZETSON # # #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 """
